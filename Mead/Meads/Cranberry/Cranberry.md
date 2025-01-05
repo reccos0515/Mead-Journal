@@ -31,4 +31,4 @@ Use the [[Resources|Tosna calculator]] for further nutrient additions
 4. Add the mixture to the fermenting vessel and stir to combine
 5. Taste, asses and repeat if necessary
 ##### Batches
-12/3/24 - [[Meads/Cranberry/First Attempt|First Attempt]] 
+12/3/24 - (AH) [[Meads/Cranberry/First Attempt|First Attempt]] 

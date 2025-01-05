@@ -32,4 +32,4 @@ Use the [[Resources|Tosna calculator]] for further nutrient additions
 5. Taste, asses and repeat if necessary
 
 ##### Batches
-1/3/25 - [[First Attempt]] 
+1/3/25 - (AH) [[First Attempt]] 
