@@ -16,4 +16,6 @@ Added Campden tablet ~5pm
 
 Final ABV 12.4%
 
+1/7/25 - Bottled the mead, final count 5 and 3/4 bottles full, estimating my numbers we were probably about ~.9 gallons fully yielded with ~.1 gal leftover waste, put the waste in a mason jar in the fridge to see what happens, but that yield does confirm my final ABV above
+
 

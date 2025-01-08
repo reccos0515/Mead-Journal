@@ -9,3 +9,5 @@ That puts the potential ABV at ~12% which after sweetening would put it around ~
 1/5/25 - Added 1/4 tsp of fermaid-o, decided to try and stir it, absolutely should not have. The mixture foamed up and i lost maybe 1/4 cup of it in total.
 
 1/6/25 - Added another 1/4 tsp of fermaid-o, just swirled it this time, i need to read up on degassing
+
+1/7/25 - Added final nutrient addition, 1/4 tsp fermaid-o. Still haven't read up on degassing.
