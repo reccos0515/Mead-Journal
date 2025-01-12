@@ -85,5 +85,21 @@
 	 4. Allow the mixture to cool to around 120<sup>0</sup>F. Strain the bochet and pour it into the sterile container you’re going to ferment it in.
 	 5. Pitch and add yeast to the mixture.
 	 6. Lightly grind spices and add to mixture with a brew bag.
- - 
+ - Piña Colada
+	  Untested, kinda developing my own recipe here (AH)
+	 - Primary
+		 - 1/4 Gal Pineapple Juice
+		 - 1/4 Gal Coconut Water
+		 - 2/3 cup Lime juice
+		 - 3 lbs Honey
+		 - 1 Packet K1-V1116 yeast
+		 - 1/2 tsp pectic enzyme
+		 - 1/2 tsp Fermaid-O Nutrient
+		 - Spring Water to fill
+	 - Secondary
+		 - 1.5 lbs Pineapple (lots of water so maybe increase amount used)
+		 - 0.6 lbs (10 oz) Maraschino cherries
+		 - 1/4 tsp coconut extract
+	  
+	  From what I can tell, pineapple sucks to ferment. People ferment a normal primary and then adds the pineapple in after in the secondary phase (note from [Oct 16, 2014](https://www.homebrewtalk.com/threads/is-pineapple-mead-truly-possible.493953/)). If I use pineapple juice I can put it in the primary ([link](https://www.homebrewtalk.com/threads/coconut-water-in-mead.405832/)). Seeing some people say they're getting caramel-notes from coconut water, which should be interesting ([Link](https://www.youtube.com/watch?v=WtLRoUBCPvU)). Maybe should use [coconut extract](https://www.amazon.com/McCormick-Coconut-Extract-Natural-Flavors/dp/B00OCMZ5A2). 
 
