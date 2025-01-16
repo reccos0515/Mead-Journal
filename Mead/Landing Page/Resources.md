@@ -11,7 +11,7 @@
  - [Kitchen scale](https://www.amazon.com/gp/product/B09R8ZKDGP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) is a life saver, but for nutrient additions you'll need one that's more precise (down to tenth of a gram I think, ex [this](https://www.amazon.com/Weigh-Gram-Digital-Jewelry-Kitchen/dp/B06Y61YW7S))
 
 Stabilization for 1 gallon
- - Use 1 crushed [campden tablet](https://www.amazon.com/Campden-Tablets-sodium-metabisulfite-100/dp/B0064H0KC6) and gently stir, wait 24 hrs
- - Add 1/2 tsp potassium sorbate stir gently, wait 24 hours
- - Your Mead is now stabilized
+ 1. Use 1 crushed [campden tablet](https://www.amazon.com/Campden-Tablets-sodium-metabisulfite-100/dp/B0064H0KC6) and gently stir, wait 24 hrs
+ 2. Add 1/2 tsp potassium sorbate stir gently, wait 24 hours
+ 3. Your Mead is now stabilized
 
